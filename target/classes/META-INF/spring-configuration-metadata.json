@@ -1,0 +1,45 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.dahuatech.rocketmq.starter.configuration.RocketMQProperties",
+      "name": "spring.rocketmq",
+      "type": "com.dahuatech.rocketmq.starter.configuration.RocketMQProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.dahuatech.rocketmq.starter.configuration.RocketMQProperties",
+      "name": "spring.rocketmq.name-server-address",
+      "description": "config name server address",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.dahuatech.rocketmq.starter.configuration.RocketMQProperties",
+      "name": "spring.rocketmq.producer-group",
+      "description": "config producer group , default to DPG+RANDOM UUID like DPG-fads-3143-123d-1111",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.dahuatech.rocketmq.starter.configuration.RocketMQProperties",
+      "defaultValue": 3000,
+      "name": "spring.rocketmq.send-msg-timeout",
+      "description": "config send message timeout",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.dahuatech.rocketmq.starter.configuration.RocketMQProperties",
+      "defaultValue": true,
+      "name": "spring.rocketmq.trace-enabled",
+      "description": "switch of trace message consumer: send message consumer info to topic: rmq_sys_TRACE_DATA",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "com.dahuatech.rocketmq.starter.configuration.RocketMQProperties",
+      "defaultValue": true,
+      "name": "spring.rocketmq.vip-channel-enabled",
+      "description": "switch of send message with vip channel",
+      "type": "java.lang.Boolean"
+    }
+  ]
+}

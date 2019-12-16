@@ -1,4 +1,4 @@
-package com.daoliuhe.rocketmq.starter.configuration;
+package com.dahuatech.rocketmq.starter.configuration;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 

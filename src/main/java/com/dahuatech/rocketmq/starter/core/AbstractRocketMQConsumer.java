@@ -1,4 +1,4 @@
-package com.daoliuhe.rocketmq.starter.core;
+package com.dahuatech.rocketmq.starter.core;
 
 import com.google.gson.Gson;
 import com.google.gson.JsonSyntaxException;

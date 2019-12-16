@@ -1,6 +1,6 @@
-package com.daoliuhe.rocketmq.starter.annotation;
+package com.dahuatech.rocketmq.starter.annotation;
 
-import com.daoliuhe.rocketmq.starter.core.MessageExtConstant;
+import com.dahuatech.rocketmq.starter.core.MessageExtConstant;
 import org.springframework.stereotype.Component;
 
 import java.lang.annotation.*;

@@ -1,8 +1,8 @@
-package com.daoliuhe.rocketmq.starter.configuration;
+package com.dahuatech.rocketmq.starter.configuration;
 
-import com.daoliuhe.rocketmq.starter.annotation.EnableRocketMQConfiguration;
-import com.daoliuhe.rocketmq.starter.core.AbstractRocketMQConsumer;
-import com.daoliuhe.rocketmq.starter.core.AbstractRocketMQProducer;
+import com.dahuatech.rocketmq.starter.annotation.EnableRocketMQConfiguration;
+import com.dahuatech.rocketmq.starter.core.AbstractRocketMQConsumer;
+import com.dahuatech.rocketmq.starter.core.AbstractRocketMQProducer;
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.autoconfigure.AutoConfigureAfter;

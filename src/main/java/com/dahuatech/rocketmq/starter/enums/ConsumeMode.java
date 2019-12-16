@@ -1,4 +1,4 @@
-package com.daoliuhe.rocketmq.starter.enums;
+package com.dahuatech.rocketmq.starter.enums;
 
 public enum ConsumeMode {
     /**

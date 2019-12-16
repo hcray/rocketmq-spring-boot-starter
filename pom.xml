@@ -19,7 +19,7 @@
     <packaging>jar</packaging>
     <name>rocketmq-spring-boot-starter</name>
     <description>spring boot starter for rocketmq</description>
-    <url>https://github.com/hcray/rocketmq-spring-boot-starter</url>
+    <url></url>
 
     <licenses>
         <license>
@@ -31,22 +31,16 @@
     </licenses>
 
 
-    <groupId>com.daoliuhe</groupId>
+    <groupId>com.dahuatech</groupId>
     <artifactId>rocketmq-spring-boot-starter</artifactId>
-    <version>0.0.1</version>
-
-    <scm>
-        <url>https://github.com/hcray/rocketmq-spring-boot-starter</url>
-        <connection>scm:git:git://github.com/hcray/rocketmq-spring-boot-starter.git</connection>
-        <developerConnection>scm:git:git@github.com:hcray/rocketmq-spring-boot-starter.git</developerConnection>
-    </scm>
+    <version>1.0.0</version>
 
     <developers>
         <developer>
-            <email>caiyingying234@gmail.com</email>
+            <email>cai_yingying@dahuatech.com</email>
             <name>caiyingying</name>
-            <url>https://github.com/hcray/rocketmq-spring-boot-starter</url>
-            <id>hcray</id>
+            <url>http://10.1.0.37:10101/tree/JavaGuide/rocketmq-spring-boot-starter</url>
+            <id>21829</id>
         </developer>
     </developers>
 

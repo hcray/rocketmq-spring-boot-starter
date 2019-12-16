@@ -1,6 +1,6 @@
-package com.daoliuhe.rocketmq.starter.configuration;
+package com.dahuatech.rocketmq.starter.configuration;
 
-import com.daoliuhe.rocketmq.starter.annotation.RocketMQProducer;
+import com.dahuatech.rocketmq.starter.annotation.RocketMQProducer;
 import org.apache.rocketmq.client.producer.DefaultMQProducer;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnBean;
 import org.springframework.context.annotation.Bean;

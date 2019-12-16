@@ -1,4 +1,4 @@
-package com.daoliuhe.rocketmq.starter.annotation;
+package com.dahuatech.rocketmq.starter.annotation;
 
 import java.lang.annotation.*;
 

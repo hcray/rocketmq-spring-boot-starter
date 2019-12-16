@@ -1,0 +1,17 @@
+com\dahuatech\rocketmq\starter\configuration\RocketMQProducerAutoConfiguration.class
+com\dahuatech\rocketmq\starter\configuration\RocketMQConsumerAutoConfiguration.class
+com\dahuatech\rocketmq\starter\configuration\RocketMQProperties.class
+com\dahuatech\rocketmq\starter\configuration\RocketMQBaseAutoConfiguration.class
+com\dahuatech\rocketmq\starter\annotation\RocketMQKey.class
+com\dahuatech\rocketmq\starter\core\AbstractRocketMQConsumer.class
+com\dahuatech\rocketmq\starter\core\AbstractRocketMQProducer.class
+com\dahuatech\rocketmq\starter\core\MessageBuilder.class
+com\dahuatech\rocketmq\starter\annotation\EnableRocketMQConfiguration.class
+com\dahuatech\rocketmq\starter\annotation\RocketMQProducer.class
+META-INF\spring-configuration-metadata.json
+com\dahuatech\rocketmq\starter\annotation\RocketMQConsumer.class
+com\dahuatech\rocketmq\starter\core\AbstractRocketMQPushConsumer.class
+com\dahuatech\rocketmq\starter\enums\ConsumeMode.class
+com\dahuatech\rocketmq\starter\core\MessageExtConstant.class
+com\dahuatech\rocketmq\starter\exception\RocketMQException.class
+com\dahuatech\rocketmq\starter\enums\DelayTimeLevel.class

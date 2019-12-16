@@ -1,4 +1,4 @@
-package com.daoliuhe.rocketmq.starter.core;
+package com.dahuatech.rocketmq.starter.core;
 
 import org.apache.rocketmq.client.consumer.DefaultMQPushConsumer;
 import org.apache.rocketmq.client.consumer.listener.ConsumeConcurrentlyContext;

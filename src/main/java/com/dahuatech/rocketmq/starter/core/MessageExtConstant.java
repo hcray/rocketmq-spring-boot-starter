@@ -1,4 +1,4 @@
-package com.daoliuhe.rocketmq.starter.core;
+package com.dahuatech.rocketmq.starter.core;
 
 
 public class MessageExtConstant {

@@ -1,8 +1,8 @@
-package com.daoliuhe.rocketmq.starter.configuration;
+package com.dahuatech.rocketmq.starter.configuration;
 
-import com.daoliuhe.rocketmq.starter.annotation.RocketMQConsumer;
-import com.daoliuhe.rocketmq.starter.core.AbstractRocketMQPushConsumer;
-import com.daoliuhe.rocketmq.starter.core.MessageExtConstant;
+import com.dahuatech.rocketmq.starter.annotation.RocketMQConsumer;
+import com.dahuatech.rocketmq.starter.core.AbstractRocketMQPushConsumer;
+import com.dahuatech.rocketmq.starter.core.MessageExtConstant;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.rocketmq.client.consumer.DefaultMQPushConsumer;
 import org.apache.rocketmq.client.consumer.listener.ConsumeConcurrentlyContext;

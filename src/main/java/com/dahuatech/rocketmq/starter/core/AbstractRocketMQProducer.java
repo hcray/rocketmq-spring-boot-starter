@@ -1,6 +1,6 @@
-package com.daoliuhe.rocketmq.starter.core;
+package com.dahuatech.rocketmq.starter.core;
 
-import com.daoliuhe.rocketmq.starter.exception.RocketMQException;
+import com.dahuatech.rocketmq.starter.exception.RocketMQException;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.rocketmq.client.producer.DefaultMQProducer;
 import org.apache.rocketmq.client.producer.MessageQueueSelector;
